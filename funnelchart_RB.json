@@ -1,11 +1,11 @@
 {
     "eula": "",
-    "vendor": "SAP",
+    "vendor": "RB",
     "license": "Apache Echart",
-    "id": "com.sap.sac.sample.echarts.funnel",
+    "id": "rb.funnel",
     "version": "1.0.0",
-    "name": "Funnel Chart",
-    "newInstancePrefix": "funnelChart",
+    "name": "RB Funnel Chart",
+    "newInstancePrefix": "RBfunnelChart",
     "description": "RBs Github Sample Custom Widget EChart Funnel Chart",
     "webcomponents": [
         {
