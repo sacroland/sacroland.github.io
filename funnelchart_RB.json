@@ -4,14 +4,14 @@
     "license": "Apache Echart",
     "id": "com.sap.sac.sample.echarts.funnel",
     "version": "1.0.0",
-    "name": "Funnel Charrt",
+    "name": "Funnel Chart",
     "newInstancePrefix": "funnelChart",
-    "description": "A Sample Custom Widget EChart Funnel Chart",
+    "description": "RBs Github Sample Custom Widget EChart Funnel Chart",
     "webcomponents": [
         {
             "kind": "main",
             "tag": "github-sap-funnel-chart",
-            "url": "/funnelchart.js",
+            "url": "https://github.com/sacroland/sac_custom_widgets/funnelchart_RB.js",
             "integrity": "",
             "ignoreIntegrity": true
         }
